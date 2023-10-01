@@ -9,5 +9,5 @@ export AWS_SECRET_ACCESS_KEY= 27gGHlyzNENCwb3TbbR6loMNI7E2b8WCh8BBb8iP
 export AWS_BUCKET= arn:aws:s3:::bucket9372
 export AWS_REGION= us-east-1
 export AWS_PROFILE= default
-export JWT_SECRET= testing
+export JWT_SECRET= mysecretstring
 export URL= http://localhost:8080
