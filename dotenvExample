@@ -1,0 +1,17 @@
+POSTGRES_HOST="localhost"
+DB_PORT=5432
+PORT= 8080
+POSTGRES_PASSWORD="password123#"
+POSTGRES_USERNAME="full_stack_user"
+RDS_DIALECT="postgres"
+POSTGRES_DB="postgres"
+AWS_REGION="us-east-1"
+AWS_PROFILE=""
+AWS_BUCKET="arn:aws:s3:::leader-udagram"
+URL=""
+AWS_ACCESS_KEY_ID=""
+AWS_SECRET_ACCESS_KEY=""
+JWT_SECRET="damn_it"
+
+
+
